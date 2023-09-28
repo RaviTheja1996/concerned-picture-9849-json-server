@@ -1,0 +1,1018 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gertrudis Tatterton",
+      "age": 18,
+      "email": "gtatterton0@ehow.com",
+      "password": "Gertrudis@123"
+    },
+    {
+      "id": 2,
+      "name": "Gail Newbatt",
+      "age": 53,
+      "email": "gnewbatt1@un.org",
+      "password": "Gail@456"
+    },
+    {
+      "id": 3,
+      "name": "Walliw Wilstead",
+      "age": 49,
+      "email": "wwilstead2@tripadvisor.com",
+      "password": "Walli@789"
+    },
+    {
+      "id": 4,
+      "name": "Abran Proback",
+      "age": 29,
+      "email": "aproback3@theglobeandmail.com",
+      "password": "Abran#341"
+    },
+    {
+      "id": 5,
+      "name": "Roda Chappelow",
+      "age": 31,
+      "email": "rchappelow4@oaic.gov.au",
+      "password": "Roda#785"
+    },
+    {
+      "id": 6,
+      "name": "Karney Wylie",
+      "age": 22,
+      "email": "kwylie5@miitbeian.gov.cn",
+      "password": "Karney#234"
+    },
+    {
+      "id": 7,
+      "name": "Cammi Pimbley",
+      "age": 63,
+      "email": "cpimbley6@nyu.edu",
+      "password": "Cammi$831"
+    },
+    {
+      "id": 8,
+      "name": "Gavra Manning",
+      "age": 43,
+      "email": "gmanning7@lycos.com",
+      "password": "Garva$947"
+    },
+    {
+      "id": 9,
+      "name": "Zachary Seward",
+      "age": 45,
+      "email": "zseward8@oracle.com",
+      "password": "Zachary$687"
+    },
+    {
+      "id": 10,
+      "name": "Chucho Norssister",
+      "age": 20,
+      "email": "cnorssister9@mayoclinic.com",
+      "password": "Chucho%771"
+    }
+  ],
+
+  "products": [
+    {
+        "id": 1,
+        "name": "Samsung Galaxy S23 Ultra",
+        "image": "https://m.media-amazon.com/images/I/41WpkxwZ+WL._SY300_SX300_.jpg",
+        "Category": "Smartphones",
+        "price": 124999,
+        "rating": 4.6,
+        "info": "Galaxy S23 Ultra's striking symmetrical design returns with one major difference: recycled and eco-conscious materials. From the metal frame to the glass finish, it's polished with fresh new colors inspired by nature. It has the latest 200MP camera Wow-worthy Resolution on the Wide-angle Camera has nearly doubled, delivering strikingly clear photos. Zoom and crop your shots for a whole new view —or leave it intact for brilliant detail, corner to corner.",
+        "review": "After using Samsung Galaxy S23 Ultra for quite a bit as a daily driver here's what I think about this phone. This phone has the best camera ever installed into a smartphone, hands-down! No other phone made in human history can ever come close to 1% of what Samsung Galaxy S23 Ultra's cameras can do. Performance is crazy! Not only it has Snapdragon 8Gen-2, but that too custom-made for Samsung Galaxy phones. You can play any games, run any apps and do whatever you'd want from a phone that is used at work, gaming, taking photos,videos and for personal use at the same time.",
+        "details": {
+            "OS": "Android 13.0",
+            "RAM": "12 GB",
+            "Connectivity": "Bluetooth, Wi-Fi, USB",
+            "Display": "6.8 inch Dynamic AMOLED 120HZ display",
+            "Weight": "233 g",
+            "Storage": "256 GB",
+            "Camera": "200 MP"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Apple iPhone 14 Pro",
+        "image": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX679_.jpg",
+        "Category": "Smartphones",
+        "price": 144999,
+        "rating": 4.6,
+        "info": "The iPhone 14 Pro is the latest flagship from Apple, featuring a stunning Super Retina XDR display, the powerful A16 Bionic chip, and an enhanced triple-camera system. It's designed to deliver exceptional performance and a seamless user experience.",
+        "review": "The iPhone 14 Pro is a true powerhouse. The A16 Bionic chip handles everything with ease, and the camera system takes phenomenal photos. The Super Retina XDR display is a visual treat, and the build quality is top-notch.",
+        "details": {
+            "OS": "iOS 16",
+            "RAM": "6 GB",
+            "Processor": "A16 Bionic",
+            "Display": "6.1 inch Super Retina XDR display",
+            "Weight": "189 g",
+            "Storage": "128 GB",
+            "Camera": "12 MP (Triple)"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Google Pixel 6 Pro",
+        "image": "https://m.media-amazon.com/images/I/41GyWOBv7eL._SX300_SY300_QL70_FMwebp_.jpg",
+        "Category": "Smartphones",
+        "price": 39000,
+        "rating": 4.3,
+        "info": "The Pixel 6 Pro is Google's flagship phone with an emphasis on photography and AI. It features a powerful Tensor chip, a 50MP main camera, and a 12MP ultra-wide camera. The large 6.7-inch OLED display is perfect for content consumption.",
+        "review": "The Pixel 6 Pro is a camera powerhouse. The Tensor chip brings impressive AI capabilities, especially in photography. The OLED display is vibrant, and the overall user experience is smooth.",
+        "details": {
+            "OS": "Android 12",
+            "RAM": "12 GB",
+            "Connectivity": "Bluetooth, Wi-Fi, USB-C",
+            "Display": "6.7 inch OLED display",
+            "Weight": "210 g",
+            "Storage": "256 GB",
+            "Camera": "50 MP (Main), 12 MP (Ultra-wide)"
+        }
+    },
+    {
+        "id": 4,
+        "name": "OnePlus 9 Pro",
+        "image":"https://m.media-amazon.com/images/I/614cCf6bzyL._SX679_.jpg",
+        "Category": "Smartphones",
+        "price": 45000,
+        "rating": 4.4,
+        "info": "The OnePlus 9 Pro is a flagship phone known for its fast performance and excellent camera system. It features a Snapdragon 888 chipset, a 48MP main camera, and a 50MP ultra-wide camera. The Fluid AMOLED display provides smooth visuals.",
+        "review": "The OnePlus 9 Pro lives up to the hype. The Snapdragon 888 ensures snappy performance, and the camera system produces impressive results. The Fluid AMOLED display is a joy to use.",
+        "details": {
+            "OS": "OxygenOS 11",
+            "RAM": "8 GB",
+            "Processor": "Snapdragon 888",
+            "Display": "6.7 inch Fluid AMOLED display",
+            "Weight": "197 g",
+            "Storage": "128 GB",
+            "Camera": "48 MP (Main), 50 MP (Ultra-wide)"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi Mi 11 Ultra",
+        "image": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11-ultra-5g-k1.jpg",
+        "Category": "Smartphones",
+        "price": 90000,
+        "rating": 4.6,
+        "info": "The Xiaomi Mi 11 Ultra is a flagship phone with a focus on photography. It boasts a 50MP main camera, a 48MP ultra-wide camera, and a 48MP telephoto camera. The Snapdragon 888 ensures top-notch performance.",
+        "review": "The Mi 11 Ultra is a camera beast. The combination of high-resolution sensors and advanced optics produces stunning photos. The Snapdragon 888 handles any task with ease, making it a top performer.",
+        "details": {
+            "OS": "MIUI 12",
+            "RAM": "12 GB",
+            "Processor": "Snapdragon 888",
+            "Display": "6.81 inch AMOLED display",
+            "Weight": "234 g",
+            "Storage": "256 GB",
+            "Camera": "50 MP (Main), 48 MP (Ultra-wide), 48 MP (Telephoto)"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Sony Xperia 1 III",
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-iii.jpg",
+        "Category": "Smartphones",
+        "price": 60000,
+        "rating": 4.0,
+        "info": "The Sony Xperia 1 III is a flagship phone tailored for multimedia enthusiasts. It features a 4K OLED display, Snapdragon 888 chipset, and a versatile camera system with ZEISS optics. Dual front-firing speakers provide immersive audio.",
+        "review": "The Xperia 1 III is a media powerhouse. The 4K OLED display is stunning, and the camera system with ZEISS optics delivers exceptional results. The Snapdragon 888 ensures smooth performance.",
+        "details": {
+            "OS": "Android 11",
+            "RAM": "12 GB",
+            "Processor": "Snapdragon 888",
+            "Display": "6.5 inch 4K OLED display",
+            "Weight": "186 g",
+            "Storage": "256 GB",
+            "Camera": "12 MP (Main), 12 MP (Ultra-wide), 12 MP (Telephoto)"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Realme GT Master Edition",
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/realme-gt-master.jpg",
+        "Category": "Smartphones",
+        "price": 40000,
+        "rating": 4.0,
+        "info": "The Realme GT Master Edition is a mid-range phone with a focus on design and performance. It features a Snapdragon 778G chipset, a 64MP main camera, and a unique suitcase-inspired design by Naoto Fukasawa.",
+        "review": "The Realme GT Master Edition impresses with its distinctive design and solid performance. The Snapdragon 778G handles tasks well, and the 64MP camera captures good shots.",
+        "details": {
+            "OS": "Realme UI 2.0",
+            "RAM": "8 GB",
+            "Processor": "Snapdragon 778G",
+            "Display": "6.43 inch Super AMOLED display",
+            "Weight": "174 g",
+            "Storage": "128 GB",
+            "Camera": "64 MP (Main)"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Motorola Edge 20 Pro",
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/motorola-edge20-pro-.jpg",
+        "Category": "Smartphones",
+        "price": 30000,
+        "rating": 4.0,
+        "info": "The Motorola Edge 20 Pro is a mid-range phone with a focus on camera capabilities. It features a 108MP main camera, a Snapdragon 870 chipset, and a high-refresh-rate AMOLED display.",
+        "review": "The Motorola Edge 20 Pro stands out with its impressive 108MP camera. The Snapdragon 870 ensures smooth performance, and the high-refresh-rate AMOLED display provides a great viewing experience.",
+        "details": {
+            "OS": "Android 11",
+            "RAM": "8 GB",
+            "Processor": "Snapdragon 870",
+            "Display": "6.7 inch AMOLED display",
+            "Weight": "190 g",
+            "Storage": "256 GB",
+            "Camera": "108 MP (Main), 16 MP (Ultra-wide)"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Asus ROG Phone 5",
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-5.jpg",
+        "Category": "Gaming Smartphones",
+        "price": 95000,
+        "rating": 4.4,
+        "info": "The Asus ROG Phone 5 is designed for gamers with a Snapdragon 888+ chipset, a high-refresh-rate AMOLED display, and gaming-specific features. It also boasts a 64MP main camera for versatile photography.",
+        "review": "The Asus ROG Phone 5 is a gaming powerhouse. The Snapdragon 888+ ensures high performance, and the gaming features enhance the experience. The 64MP camera is a nice addition for non-gaming use.",
+        "details": {
+            "OS": "Android 11",
+            "RAM": "16 GB",
+            "Processor": "Snapdragon 888+",
+            "Display": "6.78 inch AMOLED display",
+            "Weight": "238 g",
+            "Storage": "256 GB",
+            "Camera": "64 MP (Main), 13 MP (Ultra-wide)"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Nokia X20",
+        "image":"https://fdn2.gsmarena.com/vv/bigpic/nokia-x20.jpg",
+        "Category": "Smartphones",
+        "price": 70000,
+        "rating": 4.0,
+        "info": "The Nokia X20 is a mid-range phone known for its clean Android experience and long battery life. It features a Snapdragon 480 chipset, a 64MP main camera, and a durable design.",
+        "review": "The Nokia X20 offers a pure Android experience and impressive battery life. While it may not be the most powerful, it's reliable and great for everyday use. The 64MP camera is a nice bonus.",
+        "details": {
+            "OS": "Android 11",
+            "RAM": "6 GB",
+            "Processor": "Snapdragon 480",
+            "Display": "6.67 inch IPS LCD display",
+            "Weight": "220 g",
+            "Storage": "128 GB",
+            "Camera": "64 MP (Main), 5 MP (Ultra-wide)"
+        }
+    },
+
+
+    {
+        "id": 11,
+        "name": "Dell XPS 15 (2023)",
+        "Category": "Laptops",
+        "price": 101899,
+        "rating": 4.0,
+        "info": "The Dell XPS 15 (2023) is a premium laptop designed for power users. It features the latest Intel Core i9 processor, a stunning InfinityEdge 4K OLED display, and a long-lasting battery. The XPS 15 is perfect for professionals who demand high performance.",
+        "review": "The XPS 15 is a true workhorse. The InfinityEdge 4K OLED display is a visual feast, and the performance is top-notch thanks to the Intel Core i9 chip. The build quality is excellent, making it a standout choice for professionals.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "32 GB",
+            "Processor": "Intel Core i9 12th Gen",
+            "Display": "15.6 inch 4K OLED InfinityEdge display",
+            "Weight": "1.83 kg",
+            "Storage": "1 TB SSD"
+        },
+        "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=654&qlt=100,1&resMode=sharp2&size=654,402&chrss=full"
+    },
+    {
+        "id": 12,
+        "name": "HP Spectre x360 (2023)",
+        "Category": "Laptops",
+        "price": 75000,
+        "rating": 4.0,
+        "info": "The HP Spectre x360 (2023) is a versatile 2-in-1 laptop with a sleek and convertible design. It features an Intel Core i7 processor, a vibrant 4K AMOLED display, and a responsive touch screen. The Spectre x360 is perfect for both work and entertainment.",
+        "review": "The Spectre x360 is a fantastic 2-in-1 laptop. The 4K AMOLED display is stunning, and the touch screen is precise. The Intel Core i7 chip ensures smooth performance, and the build quality is exceptional.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "16 GB",
+            "Processor": "Intel Core i7 12th Gen",
+            "Display": "13.5 inch 4K AMOLED touch screen",
+            "Weight": "1.34 kg",
+            "Storage": "512 GB SSD"
+        },
+        "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/7/y/7y6u8pa-3_t1680322610.png"
+    },
+    {
+        "id": 13,
+        "name": "Lenovo ThinkPad X1 Carbon (2023)",
+        "Category": "Laptops",
+        "price": 150999,
+        "rating": 4.3,
+        "info": "The Lenovo ThinkPad X1 Carbon (2023) is a business-class laptop known for its durability and performance. It features an Intel Core i7 processor, a high-resolution 14-inch display, and robust security features. The ThinkPad X1 Carbon is ideal for professionals on the move.",
+        "review": "The ThinkPad X1 Carbon is a reliable workhorse. The high-resolution display is crisp, and the Intel Core i7 chip ensures smooth multitasking. The build quality is top-notch, making it a great companion for business professionals.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "16 GB",
+            "Processor": "Intel Core i7 12th Gen",
+            "Display": "14 inch high-resolution display",
+            "Weight": "1.13 kg",
+            "Storage": "1 TB SSD"
+        },
+        "image": "https://p4-ofp.static.pub/ShareResource/na/products/thinkpad/1060x596/lenovo-thinkpad-x1-gen-11-carbon-cover-01.png"
+    },
+    {
+        "id": 14,
+        "name": "Apple MacBook Air (2023)",
+        "Category": "Laptops",
+        "price": 126990,
+        "rating": 4.5,
+        "info": "The new MacBook Air is ultra-thin, ultra-light, and ultra-powerful. It features the M2 chip for lightning-fast performance and a Retina display for stunning visuals. With all-day battery life, it's the perfect laptop for on-the-go professionals.",
+        "review": "The MacBook Air is a game-changer. The M2 chip provides remarkable speed, and the Retina display is gorgeous. The battery life is impressive, making it an excellent choice for professionals who are always on the move.",
+        "details": {
+            "OS": "macOS Monterey",
+            "RAM": "16 GB",
+            "Processor": "Apple M2",
+            "Display": "13.3 inch Retina display",
+            "Weight": "1.29 kg",
+            "Storage": "512 GB SSD"
+        },
+        "image": "https://m.media-amazon.com/images/I/81Fm0tRFdHL._SX679_.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Microsoft Surface Laptop 5",
+        "Category": "Laptops",
+        "price": 188999,
+        "rating": 3.9,
+        "info": "The Microsoft Surface Laptop 5 is a premium laptop with a sleek design and powerful performance. It features an Intel Core i7 processor, a high-resolution PixelSense display, and a comfortable keyboard. The Surface Laptop 5 is perfect for professionals seeking style and substance.",
+        "review": "The Surface Laptop 5 impresses with its sleek design and powerful performance. The high-resolution PixelSense display is vibrant, and the keyboard is a joy to type on. The Intel Core i7 chip ensures smooth multitasking.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "16 GB",
+            "Processor": "Intel Core i7 12th Gen",
+            "Display": "13.5 inch PixelSense high-resolution display",
+            "Weight": "1.27 kg",
+            "Storage": "512 GB SSD"
+        },
+        "image": "https://m.media-amazon.com/images/I/61Oajf5fe2L._SX679_.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Acer Predator Helios 700",
+        "Category": "Gaming Laptops",
+        "price": 129990,
+        "rating": 4.0,
+        "info": "The Acer Predator Helios 700 is a gaming powerhouse with a unique sliding keyboard design. It features an Intel Core i9 processor, an NVIDIA RTX 3080 GPU, and a high-refresh-rate display for immersive gaming. The Helios 700 is perfect for serious gamers.",
+        "review": "The Predator Helios 700 is a beast of a gaming laptop. The sliding keyboard design is a cool feature, and the Intel Core i9 and RTX 3080 combination delivers top-tier gaming performance. The high-refresh-rate display is a game-changer.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "32 GB",
+            "Processor": "Intel Core i9 10th Gen",
+            "Graphics": "NVIDIA RTX 3080",
+            "Display": "17.3 inch 144Hz IPS display",
+            "Weight": "4.8 kg",
+            "Storage": "1 TB SSD"
+        },
+        "image": "https://m.media-amazon.com/images/I/51MfOw+lbEL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Razer Blade 15 Advanced",
+        "Category": "Gaming Laptops",
+        "price": 358999,
+        "rating": 4.0,
+        "info": "The Razer Blade 15 Advanced is a high-performance gaming laptop with a sleek aluminum build. It features an Intel Core i7 processor, an NVIDIA RTX 3080 GPU, and a high-refresh-rate display for smooth gaming. The Blade 15 is perfect for gamers who demand top-tier performance.",
+        "review": "The Razer Blade 15 Advanced is a premium gaming laptop. The aluminum build exudes quality, and the Intel Core i7 and RTX 3080 combination ensures top-notch gaming performance. The high-refresh-rate display is a treat for gamers.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "16 GB",
+            "Processor": "Intel Core i7 10th Gen",
+            "Graphics": "NVIDIA RTX 3080",
+            "Display": "15.6 inch 360Hz IPS display",
+            "Weight": "2.2 kg",
+            "Storage": "1 TB SSD"
+        },
+        "image": "https://assets2.razerzone.com/images/pnx.assets/364bd2434bb9f7eca125a87b920398d6/razer-blade-15-ch9-hero-desktop.jpg"
+    },
+    {
+        "id": 18,
+        "name": "LG Gram 16 ",
+        "Category": "Laptops",
+        "price": 124199,
+        "rating": 4.2,
+        "info": "The LG Gram 16 (2023) is an ultra-lightweight laptop with a large 16-inch display. It features an Intel Core i7 processor, a high-resolution IPS display, and exceptional battery life. The Gram 16 is perfect for professionals who value portability and screen real estate.",
+        "review": "The LG Gram 16 is a marvel in terms of portability for its size. The large 16-inch display is impressive, and the Intel Core i7 provides snappy performance. The battery life is exceptional, making it a great choice for on-the-go professionals.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "16 GB",
+            "Processor": "Intel Core i7 12th Gen",
+            "Display": "17 inch WQXGA IPS display",
+            "Weight": "1.35 kg",
+            "Storage": "1 TB SSD"
+        },
+        "image": "https://m.media-amazon.com/images/I/71C4M4WWSGL._SX679_.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Lenovo Legion 5 Pro",
+        "Category": "Gaming Laptops",
+        "price": 114000,
+        "rating": 4.0,
+        "info": "The Lenovo Legion 5 Pro is a gaming laptop designed for serious gamers. It features an AMD Ryzen 9 processor, an NVIDIA RTX 3080 GPU, and a high-refresh-rate display for smooth gameplay. The Legion 5 Pro is perfect for gamers who demand high performance.",
+        "review": "The Legion 5 Pro is a gaming powerhouse with its AMD Ryzen 9 and RTX 3080 combo. The high-refresh-rate display enhances the gaming experience, and the build quality is solid. It's a top choice for serious gamers.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "32 GB",
+            "Processor": "AMD Ryzen 9",
+            "Graphics": "NVIDIA RTX 3080",
+            "Display": "16 inch 165Hz IPS display",
+            "Weight": "2.5 kg",
+            "Storage": "1 TB SSD"
+        },
+        "image": "https://m.media-amazon.com/images/I/61hz+Cb7gtL._SX679_.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Asus ZenBook Pro Duo (2023)",
+        "Category": "Laptops",
+        "price": 255000,
+        "rating": 4.4,
+        "info": "The Asus ZenBook Pro Duo (2023) is a creative powerhouse with a secondary 14-inch ScreenPad Plus display. It features an Intel Core i9 processor, a 4K OLED main display, and a stylus for precision work. The ZenBook Pro Duo is perfect for content creators and professionals.",
+        "review": "The ZenBook Pro Duo is a dream for content creators. The ScreenPad Plus adds a new dimension to multitasking, and the 4K OLED main display is stunning. The Intel Core i9 chip ensures smooth performance for demanding tasks.",
+        "details": {
+            "OS": "Windows 11",
+            "RAM": "32 GB",
+            "Processor": "Intel Core i9 12th Gen",
+            "Display": "15.6 inch 4K OLED main display, 14 inch 4K ScreenPad Plus",
+            "Weight": "2.5 kg",
+            "Storage": "1 TB SSD"
+        },
+        "image": "https://m.media-amazon.com/images/I/91VR2ZXL9LL._SX679_.jpg"
+    },
+
+
+    {
+        "id": 21,
+        "name": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+        "Category": "Earphones",
+        "price": 22990,
+        "rating": 4.5,
+        "info": "The Sony WH-1000XM4 headphones offer industry-leading noise cancellation, ensuring a premium listening experience. They feature advanced sound quality, long battery life, and touch controls for convenience.",
+        "review": "The WH-1000XM4 headphones are simply phenomenal. The noise cancellation is in a league of its own, and the sound quality is pristine. The battery life is impressive, and the touch controls add a touch of convenience.",
+        "details": {
+            "Type": "Over-ear",
+            "Noise Cancellation": "Yes",
+            "Battery Life": "Up to 30 hours",
+            "Connectivity": "Bluetooth, NFC",
+            "Weight": "254 g",
+            "Color Options": "Black, Silver"
+        },
+        "image": "https://m.media-amazon.com/images/I/51SKmu2G9FL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Apple AirPods Pro",
+        "Category": "Earphones",
+        "price": 17990,
+        "rating": 4.5,
+        "info": "The AirPods Pro deliver active noise cancellation for immersive sound. They have a customizable fit for all-day comfort and a transparency mode to hear the world around you. The H1 chip ensures a seamless wireless experience.",
+        "review": "The AirPods Pro are a game-changer in the world of earphones. The noise cancellation is impressive, and the customizable fit ensures comfort. The H1 chip makes for a seamless experience across Apple devices.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "Yes",
+            "Battery Life": "Up to 24 hours (with charging case)",
+            "Connectivity": "Bluetooth, Apple H1 Chip",
+            "Weight": "5.4 g (per earbud)",
+            "Color Options": "White"
+        },
+        "image": "https://m.media-amazon.com/images/I/71bhWgQK-cL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Bose QuietComfort Earbuds",
+        "Category": "Earphones",
+        "price": 29990,
+        "rating": 4.4,
+        "info": "The Bose QuietComfort Earbuds offer world-class noise cancellation and acclaimed, lifelike sound. They provide a secure and comfortable fit for all-day wear. The earbuds are also sweat and weather-resistant.",
+        "review": "The QuietComfort Earbuds live up to the Bose reputation. The noise cancellation is outstanding, and the sound quality is rich and immersive. The comfortable fit ensures they can be worn for extended periods.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "Yes",
+            "Battery Life": "Up to 6 hours (with additional 12 hours from charging case)",
+            "Connectivity": "Bluetooth",
+            "Weight": "8.5 g (per earbud)",
+            "Color Options": "Triple Black, Soapstone"
+        },
+        "image": "https://m.media-amazon.com/images/I/51j7l0QISqL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Sennheiser Momentum True Wireless 2",
+        "Category": "Earphones",
+        "price": 17990,
+        "rating": 3.8,
+        "info": "The Sennheiser Momentum True Wireless 2 earbuds deliver exceptional sound quality and active noise cancellation. They have a comfortable fit and offer intuitive touch controls for convenience.",
+        "review": "The Momentum True Wireless 2 earbuds are a sonic delight. The sound quality is top-notch, and the noise cancellation is effective. They fit comfortably and the touch controls are easy to use.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "Yes",
+            "Battery Life": "Up to 7 hours (with additional 28 hours from charging case)",
+            "Connectivity": "Bluetooth",
+            "Weight": "6 g (per earbud)",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/81HvTDHdbGL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 25,
+        "name": "JBL Free X",
+        "Category": "Earphones",
+        "price": 6498,
+        "rating": 3.9,
+        "info": "The JBL Free X earbuds offer a truly wireless experience with powerful JBL signature sound. They have an ergonomic design for a secure fit and are splash-proof for added durability.",
+        "review": "The JBL Free X earbuds deliver impressive sound quality, true wireless convenience, and a secure fit. They're a great choice for those on the move, and the splash-proof design is a nice bonus.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "No",
+            "Battery Life": "Up to 4 hours (with additional 20 hours from charging case)",
+            "Connectivity": "Bluetooth",
+            "Weight": "99 g (charging case)",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/71aesaDOYSL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Beats Powerbeats Pro",
+        "Category": "Earphones",
+        "price": 31721,
+        "rating": 4.5,
+        "info": "The Beats Powerbeats Pro offer powerful, balanced sound with adjustable, secure-fit ear hooks. They are sweat and water-resistant, making them ideal for workouts and active lifestyles.",
+        "review": "The Powerbeats Pro deliver the signature Beats sound with a comfortable and secure fit. They're perfect for workouts and active lifestyles, and the sweat resistance adds to their durability.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "No",
+            "Battery Life": "Up to 9 hours (with additional 15 hours from charging case)",
+            "Connectivity": "Bluetooth, Apple H1 Chip",
+            "Weight": "20.3 g (per earbud)",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/61zEqUsN1tL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Jabra Elite 75t",
+        "Category": "Earphones",
+        "price": 10774,
+        "rating": 3.9,
+        "info": "The Jabra Elite 75t earbuds offer a secure and comfortable fit with customizable equalizer settings. They are compact and durable, making them suitable for all-day wear.",
+        "review": "The Elite 75t earbuds excel in comfort and sound quality. The customizable equalizer allows for a personalized listening experience. They're a great choice for extended use.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "No",
+            "Battery Life": "Up to 7.5 hours (with additional 20.5 hours from charging case)",
+            "Connectivity": "Bluetooth",
+            "Weight": "5.5 g (per earbud)",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/610K5CYx6fL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Anker Soundcore Liberty Air 2 Pro",
+        "Category": "Earphones",
+        "price": 7999,
+        "rating": 4.4,
+        "info": "The Anker Soundcore Liberty Air 2 Pro earbuds feature advanced noise-cancellation technology and personalized sound profiles. They have a comfortable fit and offer impressive battery life.",
+        "review": "The Liberty Air 2 Pro earbuds deliver on both noise cancellation and sound quality. The personalized sound profiles add a unique touch, and the comfortable fit makes them suitable for long listening sessions.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "Yes",
+            "Battery Life": "Up to 7 hours (with additional 26 hours from charging case)",
+            "Connectivity": "Bluetooth",
+            "Weight": "49.9 g (charging case)",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/51snKP8HWiL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Skullcandy Indy Evo",
+        "Category": "Earphones",
+        "price": 6420,
+        "rating": 3.2,
+        "info": "The Skullcandy Indy Evo earbuds offer a truly wireless experience with a secure fit. They have a long battery life and are water-resistant, making them suitable for various activities.",
+        "review": "The Indy Evo earbuds provide a reliable true wireless experience with a comfortable and secure fit. The long battery life ensures they can keep up with your activities, and the water resistance is a plus.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "No",
+            "Battery Life": "Up to 6 hours (with additional 24 hours from charging case)",
+            "Connectivity": "Bluetooth",
+            "Weight": "63.5 g (charging case)",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/6119HR9g38L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 30,
+        "name": "SoundPEATS TrueFree 2",
+        "Category": "Earphones",
+        "price": 4324,
+        "rating": 4.3,
+        "info": "The SoundPEATS TrueFree 2 earbuds provide a budget-friendly true wireless experience. They have touch controls, a comfortable fit, and offer good sound quality for their price.",
+        "review": "The TrueFree 2 earbuds offer excellent value for their price. They provide a reliable true wireless experience with comfortable fit and touch controls. The sound quality is surprisingly good.",
+        "details": {
+            "Type": "In-ear",
+            "Noise Cancellation": "No",
+            "Battery Life": "Up to 4 hours (with additional 20 hours from charging case)",
+            "Connectivity": "Bluetooth",
+            "Weight": "35.4 g (charging case)",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/61YTjEdKlzL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+
+
+    {
+        "id": 31,
+        "name": "Apple Watch Series 7",
+        "Category": "Smartwatches",
+        "price": 73999,
+        "rating": 4.5,
+        "info": "The Apple Watch Series 7 is the latest iteration of Apple's iconic smartwatch. It features a larger, always-on Retina display with thinner borders. The watch offers advanced health and fitness tracking, and is water-resistant for swimming.",
+        "review": "The Series 7 is a significant upgrade with its larger display and improved durability. The health and fitness tracking features are exceptional, making it a versatile companion for daily life.",
+        "details": {
+            "Display": "Always-On Retina LTPO OLED",
+            "Sizes": "41mm, 45mm",
+            "Health Tracking": "ECG, Blood Oxygen, Fitness",
+            "Water Resistance": "Up to 50 meters",
+            "Battery Life": "Up to 18 hours",
+            "Connectivity": "Bluetooth, Wi-Fi, LTE",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/71GIYSZpW+L._SX679_.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Samsung Galaxy Watch 4",
+        "Category": "Smartwatches",
+        "price": 11990,
+        "rating": 4.3,
+        "info": "The Samsung Galaxy Watch 4 is a powerful smartwatch running on the Wear OS platform. It features advanced health monitoring, including body composition analysis and blood pressure tracking. The watch is water-resistant and offers seamless integration with Samsung devices.",
+        "review": "The Galaxy Watch 4 is a standout choice for Android users. The health tracking features, especially body composition analysis, are a game-changer. The watch offers a smooth and responsive user experience.",
+        "details": {
+            "Display": "Super AMOLED",
+            "Sizes": "40mm, 44mm",
+            "Health Tracking": "Body Composition, Blood Pressure, Fitness",
+            "Water Resistance": "Up to 50 meters",
+            "Battery Life": "Up to 40 hours",
+            "Connectivity": "Bluetooth, Wi-Fi, LTE",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/61nBzBREzGL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Fitbit Sense",
+        "Category": "Smartwatches",
+        "price": 19775,
+        "rating": 4.3,
+        "info": "The Fitbit Sense is a comprehensive health smartwatch with advanced ECG and EDA sensors for stress management. It offers continuous heart rate tracking, skin temperature monitoring, and built-in GPS for outdoor activities.",
+        "review": "The Sense is a health-focused smartwatch with a range of advanced sensors. The ECG and EDA features are valuable for monitoring heart health and stress levels. The watch provides a comfortable fit for all-day wear.",
+        "details": {
+            "Display": "AMOLED",
+            "Sizes": "One size",
+            "Health Tracking": "ECG, EDA, Heart Rate, Skin Temperature",
+            "Water Resistance": "Up to 50 meters",
+            "Battery Life": "Up to 6+ days",
+            "Connectivity": "Bluetooth, Wi-Fi",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/51JNsCR32BL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Garmin Fenix 6 Pro",
+        "Category": "Smartwatches",
+        "price": 78911,
+        "rating": 4.7,
+        "info": "The Garmin Fenix 6 Pro is a premium multisport GPS smartwatch designed for outdoor enthusiasts and athletes. It features advanced mapping, heart rate monitoring, and performance metrics. The watch is built to withstand rugged environments.",
+        "review": "The Fenix 6 Pro is a top-tier choice for outdoor adventurers and athletes. The mapping and performance metrics are unparalleled, and the watch's durability is outstanding. The battery life is impressive given its feature set.",
+        "details": {
+            "Display": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+            "Sizes": "47mm",
+            "Health Tracking": "Heart Rate, Performance Metrics, GPS",
+            "Water Resistance": "Up to 100 meters",
+            "Battery Life": "Up to 14 days (Smartwatch mode)",
+            "Connectivity": "Bluetooth, Wi-Fi, GPS",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/7191EyVICUL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Amazfit GTS 2",
+        "Category": "Smartwatches",
+        "price": 7499,
+        "rating": 4.0,
+        "info": "The Amazfit GTS 2 is a feature-packed smartwatch with a vibrant AMOLED display. It offers comprehensive health tracking, including SpO2 measurement and stress level monitoring. The watch is lightweight and comfortable for daily wear.",
+        "review": "The GTS 2 offers impressive features at an affordable price. The health tracking capabilities are comprehensive, and the AMOLED display provides vibrant visuals. The watch's battery life is commendable for its feature set.",
+        "details": {
+            "Display": "AMOLED",
+            "Sizes": "One size",
+            "Health Tracking": "SpO2, Stress, Heart Rate",
+            "Water Resistance": "Up to 50 meters",
+            "Battery Life": "Up to 7 days (Typical use)",
+            "Connectivity": "Bluetooth, Wi-Fi",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/51T2nbc4v0L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Huawei Watch GT 2 Pro",
+        "Category": "Smartwatches",
+        "price": 29990,
+        "rating": 4.5,
+        "info": "The Huawei Watch GT 2 Pro is a premium smartwatch with a titanium frame and sapphire glass. It offers advanced health tracking, including SpO2 and sleep monitoring. The watch provides up to two weeks of battery life.",
+        "review": "The Watch GT 2 Pro exudes luxury with its premium build. The health tracking features are accurate, and the watch's battery life is outstanding. It's an excellent choice for those seeking a blend of style and functionality.",
+        "details": {
+            "Display": "AMOLED",
+            "Sizes": "One size",
+            "Health Tracking": "SpO2, Sleep, Stress",
+            "Water Resistance": "Up to 50 meters",
+            "Battery Life": "Up to 14 days",
+            "Connectivity": "Bluetooth, GPS",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/71cnbh-dlmL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Xiaomi Mi Watch Revolve Active",
+        "Category": "Smartwatches",
+        "price": 13000,
+        "rating": 4.0,
+        "info": "The Xiaomi Mi Watch Revolve Active is a versatile smartwatch with built-in GPS and SpO2 monitoring. It offers over 110 workout modes and is water-resistant. The watch provides up to two weeks of battery life.",
+        "review": "The Mi Watch Revolve Active is a feature-packed smartwatch at an attractive price. The range of workout modes and accurate health tracking make it suitable for fitness enthusiasts. The battery life is impressive.",
+        "details": {
+            "Display": "AMOLED",
+            "Sizes": "One size",
+            "Health Tracking": "SpO2, Heart Rate, Fitness",
+            "Water Resistance": "Up to 50 meters",
+            "Battery Life": "Up to 14 days",
+            "Connectivity": "Bluetooth, GPS",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/61T1xkCS6cS._SX522_.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Fossil Gen 5E",
+        "Category": "Smartwatches",
+        "price": 11995,
+        "rating": 4.0,
+        "info": "The Fossil Gen 5E is a stylish smartwatch powered by Wear OS. It offers customizable dials and interchangeable bands for personalization. The watch features heart rate tracking, GPS, and Google Assistant integration.",
+        "review": "The Gen 5E is a fashionable smartwatch with a range of customization options. The heart rate tracking and GPS features make it suitable for fitness tracking. The Wear OS platform offers a familiar and user-friendly experience.",
+        "details": {
+            "Display": "AMOLED",
+            "Sizes": "44mm",
+            "Health Tracking": "Heart Rate, GPS",
+            "Water Resistance": "Up to 30 meters",
+            "Battery Life": "Up to 24 hours (Multi-day modes available)",
+            "Connectivity": "Bluetooth, Wi-Fi",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/71oshJ0rrSS._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Garmin Forerunner 245 Music",
+        "Category": "Smartwatches",
+        "price": 34990,
+        "rating": 5.0,
+        "info": "The Garmin Forerunner 245 Music is a GPS smartwatch designed for runners and fitness enthusiasts. It offers advanced running dynamics, music storage, and comprehensive health tracking features.",
+        "review": "The Forerunner 245 Music is a must-have for dedicated runners. The advanced running metrics and music storage are standout features. The watch provides detailed insights for performance improvement.",
+        "details": {
+            "Display": "Sunlight-visible, transflective memory-in-pixel (MIP)",
+            "Sizes": "42mm",
+            "Health Tracking": "Heart Rate, Running Dynamics",
+            "Water Resistance": "Up to 50 meters",
+            "Battery Life": "Up to 7 days (Smartwatch mode)",
+            "Connectivity": "Bluetooth, GPS",
+            "Color Options": "Various"
+        },
+        "image": "https://m.media-amazon.com/images/I/71WDnT064WL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 40,
+        "name": "TicWatch Pro 3 Ultra GPS",
+        "Category": "Smartwatches",
+        "price": 28990,
+        "rating": 4.2,
+        "info": "The TicWatch Pro 3 Ultra GPS is a powerful Wear OS smartwatch with dual displays for extended battery life. It features advanced health and fitness tracking, including blood oxygen monitoring and stress tracking.",
+        "review": "The TicWatch Pro 3 Ultra GPS impresses with its dual display design and comprehensive health features. The battery life is exceptional for a Wear OS device. It's a versatile smartwatch suitable for various activities.",
+        "details": {
+            "Display": "AMOLED + FSTN",
+            "Sizes": "47mm",
+            "Health Tracking": "SpO2, Stress, Heart Rate",
+            "Water Resistance": "IP68",
+            "Battery Life": "Up to 72 hours (Smartwatch mode)",
+            "Connectivity": "Bluetooth, Wi-Fi, GPS",
+            "Color Options": "Various"
+        },
+        "image": "https://rukminim2.flixcart.com/image/416/416/ky90scw0/smartwatch/e/i/7/22-android-ios-wh1201b-mobvoi-yes-original-imagagurfz9e5yvh.jpeg?q=70"
+    },
+
+
+    {
+        "id": 41,
+        "name": "Sony Bravia XR A80J 4K OLED TV (65 inch)",
+        "Category": "Smart TVs",
+        "price": 166240,
+        "rating": 4.6,
+        "info": "The Sony Bravia XR A80J is a top-of-the-line 4K OLED TV with the Cognitive Processor XR for stunning picture quality. It features Acoustic Surface Audio+ for immersive sound. The TV runs on Android TV for a seamless smart experience.",
+        "review": "The A80J is a flagship TV that delivers on all fronts. The OLED display is stunning, and the Cognitive Processor XR ensures exceptional picture quality. The sound quality is impressive, and the Android TV interface is user-friendly.",
+        "details": {
+            "Display Type": "OLED",
+            "Resolution": "4K UHD",
+            "HDR Support": "Dolby Vision, HDR10, HLG",
+            "Audio": "Acoustic Surface Audio+",
+            "Smart Platform": "Android TV",
+            "Ports": "4 HDMI, 3 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/81Uc3NUrdkL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Samsung QN90A Neo QLED 4K Smart TV (75 inch)",
+        "Category": "Smart TVs",
+        "price": 824990,
+        "rating": 4.5,
+        "info": "The Samsung QN90A is a premium 4K Neo QLED TV with Quantum Matrix Technology for vibrant colors and deep blacks. It features Object Tracking Sound+ for immersive audio. The TV is powered by Tizen for a seamless smart TV experience.",
+        "review": "The QN90A is a standout TV in Samsung's lineup. The Neo QLED display is a visual treat, and the Object Tracking Sound+ technology provides a cinematic audio experience. The Tizen OS is intuitive and responsive.",
+        "details": {
+            "Display Type": "Neo QLED",
+            "Resolution": "4K UHD",
+            "HDR Support": "HDR10+, HLG",
+            "Audio": "Object Tracking Sound+",
+            "Smart Platform": "Tizen",
+            "Ports": "4 HDMI, 2 USB",
+            "Color Options": "Black, Silver"
+        },
+        "image": "https://m.media-amazon.com/images/I/91RnDCyguML._SX679_.jpg"
+    },
+    {
+        "id": 43,
+        "name": "LG C1 4K OLED Smart TV (55 inch)",
+        "Category": "Smart TVs",
+        "price": 89990,
+        "rating": 4.4,
+        "info": "The LG C1 is a high-end 4K OLED TV with self-lit pixels for perfect black levels. It features AI Picture and AI Sound for an enhanced viewing experience. The TV runs on webOS for a user-friendly smart TV interface.",
+        "review": "The C1 is a top-tier OLED TV with breathtaking picture quality. The self-lit pixels deliver perfect blacks, and the AI enhancements add depth to the visuals and audio. The webOS platform is intuitive and offers a wide range of apps.",
+        "details": {
+            "Display Type": "OLED",
+            "Resolution": "4K UHD",
+            "HDR Support": "Dolby Vision, HDR10, HLG",
+            "Audio": "AI Sound",
+            "Smart Platform": "webOS",
+            "Ports": "4 HDMI, 3 USB",
+            "Color Options": "Black, Silver"
+        },
+        "image": "https://m.media-amazon.com/images/I/81sXFx9vlSL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Sony X80J 4K LED Smart TV (65 inch)",
+        "Category": "Smart TVs",
+        "price": 275490,
+        "rating": 4.3,
+        "info": "The Sony X80J is a 4K LED TV with the 4K HDR Processor X1 for lifelike picture quality. It features Triluminos Pro for a wide color gamut. The TV runs on Google TV for a seamless smart TV experience.",
+        "review": "The X80J offers impressive picture quality for an LED TV. The 4K HDR Processor X1 brings out stunning visuals, and the Triluminos Pro technology enhances the color reproduction. Google TV provides a smooth and intuitive smart TV experience.",
+        "details": {
+            "Display Type": "LED",
+            "Resolution": "4K UHD",
+            "HDR Support": "Dolby Vision, HDR10, HLG",
+            "Audio": "Dolby Atmos, Acoustic Multi-Audio",
+            "Smart Platform": "Google TV",
+            "Ports": "4 HDMI, 2 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/819733naKAL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 45,
+        "name": "TCL 6-Series 4K QLED Smart TV (55 inch)",
+        "Category": "Smart TVs",
+        "price": 43990,
+        "rating": 4.2,
+        "info": "The TCL 6-Series is a 4K QLED TV with Quantum Dot technology for vibrant colors. It features Mini-LED backlighting for precise contrast control. The TV is powered by Roku TV for an intuitive smart TV experience.",
+        "review": "The 6-Series offers exceptional value for a QLED TV. The Quantum Dot technology produces vivid colors, and the Mini-LED backlighting enhances contrast. The Roku TV platform is easy to navigate and offers a wide range of streaming options.",
+        "details": {
+            "Display Type": "QLED",
+            "Resolution": "4K UHD",
+            "HDR Support": "Dolby Vision, HDR10, HLG",
+            "Audio": "Dolby Atmos",
+            "Smart Platform": "Roku TV",
+            "Ports": "4 HDMI, 1 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/81C2TxPcXdL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Hisense U8G Quantum Series 4K ULED Smart TV (65 inch)",
+        "Category": "Smart TVs",
+        "price": 100299,
+        "rating": 4.3,
+        "info": "The Hisense U8G is a 4K ULED TV with Quantum Dot technology for vibrant colors. It features Full Array Local Dimming for precise control over contrast. The TV runs on Android TV for a seamless smart TV experience.",
+        "review": "The U8G impresses with its ULED technology and Full Array Local Dimming. The Quantum Dot technology delivers striking colors, and the Android TV interface provides a wide range of apps and features.",
+        "details": {
+            "Display Type": "ULED",
+            "Resolution": "4K UHD",
+            "HDR Support": "Dolby Vision, HDR10, HLG",
+            "Audio": "Dolby Atmos",
+            "Smart Platform": "Android TV",
+            "Ports": "4 HDMI, 2 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/71e4QkoNYlL._AC_SX679_.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Vizio OLED 4K Smart TV (55 inch)",
+        "Category": "Smart TVs",
+        "price": 147999,
+        "rating": 4.0,
+        "info": "The Vizio OLED is a 4K OLED TV with self-lit pixels for perfect black levels. It features IQ Ultra Processor for stunning picture quality. The TV supports Dolby Vision and HDR10+ for a dynamic HDR experience.",
+        "review": "The Vizio OLED offers impressive picture quality with its self-lit pixels and IQ Ultra Processor. The support for Dolby Vision and HDR10+ enhances the HDR experience. The TV provides a solid smart TV experience.",
+        "details": {
+            "Display Type": "OLED",
+            "Resolution": "4K UHD",
+            "HDR Support": "Dolby Vision, HDR10+, HLG",
+            "Audio": "Dolby Atmos",
+            "Smart Platform": "Vizio SmartCast",
+            "Ports": "4 HDMI, 1 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://www.vizio.com/content/dam/vizio/us/en/images/product/2020/tvs/oled/oled55-h1/gallery/2020_OLED_OLED55-H1_Front_OS.jpg/jcr:content/renditions/cq5dam.web.1920.1200.png"
+    },
+    {
+        "id": 48,
+        "name": "Roku TCL 4-Series 4K LED Smart TV (50 inch)",
+        "Category": "Smart TVs",
+        "price": 34990,
+        "rating": 4.6,
+        "info": "The Roku TCL 4-Series is an affordable 4K LED TV with High Dynamic Range for enhanced contrast. It features simple and intuitive Roku TV interface for streaming. The TV is a great value for budget-conscious buyers.",
+        "review": "The TCL 4-Series offers solid picture quality at an affordable price. The High Dynamic Range provides improved contrast, and the Roku TV platform is easy to use. It's an excellent choice for budget-conscious buyers.",
+        "details": {
+            "Display Type": "LED",
+            "Resolution": "4K UHD",
+            "HDR Support": "HDR10",
+            "Audio": "Dolby Digital+",
+            "Smart Platform": "Roku TV",
+            "Ports": "3 HDMI, 1 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/61FUcVoz0dL._AC_SX466_.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Philips 6800 Series 4K LED Smart TV (58 inch)",
+        "Category": "Smart TVs",
+        "price": 89990,
+        "rating": 3.6,
+        "info": "The Philips 6800 Series is a 4K LED TV with Ambilight technology for an immersive viewing experience. It features Pixel Precise Ultra HD for sharp and smooth images. The TV runs on Saphi OS for a user-friendly smart TV experience.",
+        "review": "The 6800 Series stands out with its Ambilight technology, creating an immersive viewing experience. The Pixel Precise Ultra HD ensures sharp visuals, and the Saphi OS offers a straightforward smart TV interface.",
+        "details": {
+            "Display Type": "LED",
+            "Resolution": "4K UHD",
+            "HDR Support": "HDR10, HLG",
+            "Audio": "Dolby Atmos",
+            "Smart Platform": "Saphi",
+            "Ports": "3 HDMI, 2 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://m.media-amazon.com/images/I/91csVqCheSL._SX679_.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Sharp Aquos 4K LED Smart TV (65 inch)",
+        "Category": "Smart TVs",
+        "price": 25990,
+        "rating": 4.3,
+        "info": "The Sharp Aquos is a 4K LED TV with a Full Array backlight for precise contrast. It features Motion Rate 240 for smooth motion handling. The TV offers a range of streaming options for a complete entertainment experience.",
+        "review": "The Sharp Aquos delivers solid performance with its Full Array backlight and Motion Rate 240. The picture quality is impressive, and the range of streaming options provides a complete entertainment experience.",
+        "details": {
+            "Display Type": "LED",
+            "Resolution": "4K UHD",
+            "HDR Support": "HDR10",
+            "Audio": "Dolby Digital Plus",
+            "Smart Platform": "SmartCentral",
+            "Ports": "4 HDMI, 2 USB",
+            "Color Options": "Black"
+        },
+        "image": "https://rukminim2.flixcart.com/image/416/416/jxkpx8w0/television/t/a/x/sharp-lc50ua6500x-original-imafgy2pgjgjxbeh.jpeg?q=70"
+    }
+]
+}
